@@ -1,6 +1,6 @@
 
 export default {
-  basePath: '.',
+  basePath: '/thienchi-ui',
   supportedLocales: {
   "en-US": ""
 },
